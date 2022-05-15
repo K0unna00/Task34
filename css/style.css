@@ -1,0 +1,94 @@
+.icons ul {
+  list-style-type: none;
+}
+
+.add-btn button {
+  width: 100px;
+  height: 138%;
+  color: white;
+  background-color: rgba(248, 80, 14, 0.836);
+  border: 0px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  margin-top: -20px;
+  outline: none;
+}
+
+.add-btn button:hover {
+  background-color: rgba(196, 78, 32, 0.836);
+}
+
+.c-red {
+  color: rgba(248, 80, 14, 0.836);
+}
+
+.bg-dark-blue {
+  background-color: #171b2a;
+}
+
+.container-with {
+  width: 100%;
+}
+
+.col-4 ul {
+  list-style-type: none;
+}
+
+.col-4 ul li {
+  margin-left: 20px;
+  font-size: 22px;
+}
+
+.iconss {
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 60px;
+  height: 60px;
+  -webkit-box-shadow: 5px 5px 8px rgba(128, 128, 128, 0.137);
+          box-shadow: 5px 5px 8px rgba(128, 128, 128, 0.137);
+}
+
+.space {
+  width: 100%;
+  height: 500px;
+}
+
+.pad0 {
+  margin-left: -55px;
+}
+
+.newsletter .text p {
+  margin-left: -18px;
+}
+
+.info {
+  width: 100%;
+  height: 500px;
+  padding-top: 100px;
+  position: relative;
+}
+
+.orange-section {
+  background-color: #ff5a3c;
+  width: 100%;
+  height: 140px;
+  bottom: -70px;
+  z-index: 4;
+}
+
+.button button {
+  width: 200px;
+  height: 60px;
+  border: 0;
+  outline: none;
+}
+/*# sourceMappingURL=style.css.map */
